@@ -1,5 +1,7 @@
  # **Мой конспект по работе с GIT.**
 
+![Git logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*70lri680AOQ33hojEHeqEw.png)
+
 ## *Главные git-команды и их описание:*
 
 * *git --version* - команда, позволяющая узнать установленную версию Git;
@@ -24,3 +26,6 @@
 1. Редактирование информации
 2. Сохранение (Ctrl + S)
 3. Добавление (git add)
+4. Фиксация (git commit) и комментарий к сохраняемому действию (-m )
+
+![End](https://thumb.tildacdn.com/tild6430-6566-4465-b436-343639616430/-/format/webp/git.png)
