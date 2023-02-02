@@ -13,3 +13,8 @@
 * Метод слияния, когда данные из всех веток попадают на главную (master).
 
 3. ### Types of conflict resolution
+
+* Accept current change
+* Accept incoming change
+* Accept both changes
+* Compare changes
