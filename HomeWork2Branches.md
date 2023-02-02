@@ -14,4 +14,7 @@
 
 3. ### Types of conflict resolution
 
-Строка для инсценировки конфликтной ситуации.
+* Accept current change
+* Accept incoming change
+* Accept both changes
+* Compare changes
