@@ -18,3 +18,5 @@
 * Accept incoming change
 * Accept both changes
 * Compare changes
+
+4. ### Image merge
