@@ -10,4 +10,6 @@
 
 2. ### Ort strategy
 
+* *git merge merging* - метод слияния, когда данные из всех веток попадают на главную.
+
 3. ### Types of conflict resolution
