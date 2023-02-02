@@ -19,6 +19,6 @@
 * Accept both changes
 * Compare changes
 
-4. ### Image merge
+## Image merge
 
 ![Слияние](https://wac-cdn.atlassian.com/dam/jcr:03a86203-4306-48c0-ad11-faa46f47aa27/what-is-a-merge.gif?cdnVersion=749)
